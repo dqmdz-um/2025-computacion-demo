@@ -1,6 +1,6 @@
 import unittest
 
-from main import suma
+from src.main import suma
 
 class DemoTest(unittest.TestCase):
 
